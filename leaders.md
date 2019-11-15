@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Sebastien Gioria](mailto://sebastien.gioria@owasp.org)
+* [Didier Bernaudeau](mailto://didier.bernaudeau@owasp.org)
+* [Yann Phelizot](mailto://leader.email@owasp.org)
