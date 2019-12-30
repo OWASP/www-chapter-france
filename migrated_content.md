@@ -287,7 +287,7 @@ code sécurisé avec le projet OWASP SonarQube . Les slides sont en ligne
 ## Juillet 2016
 
 **`Date`**` : `[`7``   ``Juillet``
- ``2016`](https://www.owasp.org/images/a/a1/2016-07-07-Meeting_OWASP_Juillet.pdf)
+ ``2016`](/www-pdf-archive/2016-07-07-Meeting_OWASP_Juillet.pdf)
 **`Lieu`**` : DragonFly - 215 avenue Georges Clemenceau NANTERRE - Bus 258 depuis la Défense, arrêt Les Fontenelles. `
 
 Le Lounge est en entrant à droite dans le bâtiment, au rez-de-chaussée.
@@ -295,10 +295,10 @@ Le Lounge est en entrant à droite dans le bâtiment, au rez-de-chaussée.
 **`Horaire`**` : 18h30-22h`
 **`Présentation``   ``1`**` : `[`Owasp``   ``security``   ``Shepherd``
  ``Par``   ``Tarik``   ``El``
- ``Aouadi`](https://www.owasp.org/images/e/e2/OWASP-fr_Meeting_Shepherd-demo.pdf)
+ ``Aouadi`](/www-pdf-archive/OWASP-fr_Meeting_Shepherd-demo.pdf)
 **`Présentation``   ``2`**` : `[`Bug``   ``Bounty``   ``-``   ``État``
  ``de``   ``l’Art``   ``Par``   ``Yassir``   ``Kazar``
- ``(YogoSha)`](https://www.owasp.org/images/1/19/Yogosha-OWASP.pdf)
+ ``(YogoSha)`](/www-pdf-archive/Yogosha-OWASP.pdf)
 
 Le meeting est disponible sur Youtube :
 <https://www.youtube.com/watch?v=oko2_zz1CWQ>
@@ -308,11 +308,11 @@ l'enregistrement live
 
 Liens pour les slides uniquement :
 
-<https://www.owasp.org/images/a/a1/2016-07-07-Meeting_OWASP_Juillet.pdf>
+</www-pdf-archive/2016-07-07-Meeting_OWASP_Juillet.pdf>
 
-<https://www.owasp.org/images/e/e2/OWASP-fr_Meeting_Shepherd-demo.pdf>
+</www-pdf-archive/OWASP-fr_Meeting_Shepherd-demo.pdf>
 
-<https://www.owasp.org/images/1/19/Yogosha-OWASP.pdf>
+</www-pdf-archive/Yogosha-OWASP.pdf>
 
 ## Septembre 2016
 
@@ -388,16 +388,16 @@ Liens pour les slides uniquement :
 ## OWASP European Chapter Tour 2013, Sophia-Antipolis, France, 24 Juin 2013
 
 **`Présentation`**` : "`[`Synthèse`](https://www.owasp.org/images/1/10/Synth%C3%A8se.ppt)`"`
-**`Présentation`**` : "`[`Introduction`](https://www.owasp.org/images/9/96/EuTour_-_Owasp_Eurecom.pdf)`"`
+**`Présentation`**` : "`[`Introduction`](/www-pdf-archive/EuTour_-_Owasp_Eurecom.pdf)`"`
 **`Présentation`**` : "`[`The``   ``Role``   ``of``   ``Web``
  ``Hosting``   ``Providers``   ``in``   ``Detecting``   ``Compromised``
- ``Websites`](https://www.owasp.org/images/5/50/EuTour-providers.pdf)`"`
+ ``Websites`](/www-pdf-archive/EuTour-providers.pdf)`"`
 **`Présentation`**` : "`[`Behind``   ``the``   ``Scenes``   ``of``
  ``Web``
- ``Attacks`](https://www.owasp.org/images/f/fc/EuTour-webhoneypots.pdf)`"`
+ ``Attacks`](/www-pdf-archive/EuTour-webhoneypots.pdf)`"`
 **`Présentation`**` : "`[`Logic``   ``Vulnerabilities``   ``in``
  ``eCommerce``   ``Web``
- ``Applications`](https://www.owasp.org/images/8/8d/Pellegrino-OWASP_EUTour2013.pdf)`"`
+ ``Applications`](/www-pdf-archive/Pellegrino-OWASP_EUTour2013.pdf)`"`
 
 **`Résumé`**` :  `
 
@@ -514,7 +514,7 @@ Les présentations sont disponibles sur le site du
 [CLUSIF](http://www.clusif.fr), les vidéos de l'intervention seront
 aussi disponible.
 
-## 2 Décembre 2011 - [OWASP BeNeLux 2011 Conference - University of Luxembourg](OWASP_BeNeLux_2011_Conference_-_University_of_Luxembourg "wikilink")
+## 2 Décembre 2011 - [OWASP BeNeLux 2011 Conference - University of Luxembourg](OWASP_BeNeLux_2011_Conference_-_University_of_Luxembourg )
 
 Ludovic had a talk about "[WebApp Security and Legal
 aspects](https://www.owasp.org/index.php/BeNeLux_OWASP_Day_2011#tab=Conference.2C_December_2nd)"
@@ -546,7 +546,7 @@ on Dec 2.
         compliance with your local Legal framework? Compliant? Sure?
         Really? Interesting isn't it? Let's have a talk about this.
 
-### [EUROPE - ENISA’s Who-is-Who Directory on Network and Information Security](EUROPE_-_ENISA’s_Who-is-Who_Directory_on_Network_and_Information_Security "wikilink")
+### [EUROPE - ENISA’s Who-is-Who Directory on Network and Information Security](EUROPE_-_ENISA’s_Who-is-Who_Directory_on_Network_and_Information_Security )
 
 We are pleased to announce that OWASP France is part of the [ENISA’s
 Who-is-Who
@@ -726,7 +726,7 @@ interessants pour le Chapitre.
 
 # 2011 Meetings
 
-### [May 2011 - Paris Meeting](May_2011_-_Paris_Meeting "wikilink")
+### [May 2011 - Paris Meeting](May_2011_-_Paris_Meeting )
 
 \[Logo to be placed here\]
 
@@ -889,7 +889,7 @@ Amphi 2
     Recto/verso](https://www.owasp.org/images/5/52/Owasp_tryptique.pdf)
     de présentation pour Infosecurity.
   - 2007-02-27 :
-    [Newsletter_francaise_num%C3%A9ro_1](Newsletter_francaise_num%C3%A9ro_1 "wikilink")
+    [Newsletter_francaise_num%C3%A9ro_1](Newsletter_francaise_num%C3%A9ro_1 )
   - 2007-06-20 : Présentation de l'OWASP faite à NY en Juin 2007
     [5](https://www.owasp.org/images/7/71/20070620-FR-OWASP_NY_Keynote.ppt)
 
@@ -932,4 +932,4 @@ Amphi 2
 
 __NOTOC__ <headertabs />
 
-[Category:Europe](Category:Europe "wikilink")
+[Category:Europe](Category:Europe )
