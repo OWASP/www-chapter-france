@@ -1,3 +1,6 @@
 ### Leaders
 
-* [Ludovic Petit](mailto:ludovic.petit@owasp.org)
+* [Sebastien GIORIA](mailto:sebastien.gioria@owasp.org)
+* [Didier Bernaudeau ] (mailto:didier.bernaudeau@owasp.org)
+* [Yvan Phelizot ] (mailto:yvan.phelizot@gmail.com)
+
