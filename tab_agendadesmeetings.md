@@ -12,7 +12,7 @@ Les meetings ont lieu sur une base minimale trimestrielle et se déroulent gén�
 L'organisation et le détail des meetings sont communiqués via la [liste de diffusion](https://groups.google.com/a/owasp.org/forum/#!forum/france-chapter) et via le compte [twitter](https://twitter.com/OWASP_France) de la section. 
 
 
-#2020
+# 2020
 ## PROCHAIN MEETING : A définir
 
 
