@@ -13,8 +13,8 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 
 
 # 2020
-## PROCHAIN MEETING : A définir
 
+* [Meetup OWASP Paris (16/01/2020)]{{ site.baseurl }}{% link event/2020-01-16.md %})
 
 # Anciens Meetings 
 
