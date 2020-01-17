@@ -14,7 +14,11 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 
 # 2020
 
-* [Meetup OWASP Paris (16/01/2020)]({{ site.baseurl }}{% link event/2020-01-16.md %})
+{% assign pages = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2020'" | where_exp: "page", "page.name != 'index.md'" | where_exp: "page": "page.name != 'info.md'"%}
+
+{% for page in pages %}
+{{ page.title }}{% if page.author %} by {{ page.author }}{% endif %}
+{% endfor %}
 
 # Anciens Meetings 
 
