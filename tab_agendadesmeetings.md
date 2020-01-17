@@ -20,15 +20,13 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 {{ page.title }}{% if page.author %} by {{ page.author }}{% endif %}
 {% endfor %}
 
-# Anciens Meetings 
-
 # 2019
 
-## Meeting le 14/11/2019
+{% assign pages = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2019'" | where_exp: "page", "page.name != 'index.md'" | where_exp: "page": "page.name != 'info.md'"%}
 
-LE [Meeting de
-Novembre 2019](https://www.meetup.com/fr-FR/owasp-france/events/265767065/)
-aura lieu 23-5 Rue du Bouloi, 75001 Paris
+{% for page in pages %}
+{{ page.title }}{% if page.author %} by {{ page.author }}{% endif %}
+{% endfor %}
 
 ## Meeting le 10/10/2019
 
