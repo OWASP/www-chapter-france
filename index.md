@@ -9,7 +9,7 @@ site_side: true
 region: Europe
 ---
 
-''' <paypal>France Chapter</paypal>
+
 
 **The French Chapter is also available on LinkedIn**: [**Join us**, it
 only takes a
