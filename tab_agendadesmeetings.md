@@ -14,18 +14,18 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 
 # 2020
 
-{% assign pages2020 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2020'" %}
+{% assign page_event_2020 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2020'" %}
 
-{% for pages2020 in pages %}
-* [{{ pages2020.title }}]({{site.baseurl }}www-chapter-france/{{ pages2020.url }})
+{% for page in page_event_2020 %}
+* [{{ page.title }}]({{site.baseurl }}www-chapter-france/{{ page.url }})
 {% endfor %}
 
 # 2019
 
-{% assign pages2019 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2019'" %}
+{% assign page_event_2019 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2019'" %}
 
-{% for pages2019 in pages %}
-* [{{ pages2019.title }}]({{site.baseurl }}www-chapter-france/{{ pages2019.url }})
+{% for page in page_event_2019 %}
+* [{{ page.title }}]({{site.baseurl }}www-chapter-france/{{ page.url }})
 {% endfor %}
 
 ## Meeting le 10/10/2019
