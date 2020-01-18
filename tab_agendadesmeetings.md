@@ -17,10 +17,16 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 {% assign pages = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2020'" | where_exp: "page", "page.name != 'index.md'" | where_exp: "page": "page.name != 'info.md'"%}
 
 {% for page in pages %}
-[{{ page.title }}]({{ page.url }})
+* [{{ page.title }}]({{ page.url }})
 {% endfor %}
 
 # 2019
+
+{% assign pages = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2019'" | where_exp: "page", "page.name != 'index.md'" | where_exp: "page": "page.name != 'info.md'"%}
+
+{% for page in pages %}
+* [{{ page.title }}]({{ page.url }})
+{% endfor %}
 
 ## Meeting le 10/10/2019
 
