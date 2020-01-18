@@ -22,140 +22,23 @@ L'organisation et le détail des meetings sont communiqués via la [liste de dif
 
 # 2019
 
+## Meetup
+
 {% assign page_event_2019 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2019'" %}
 
 {% for page in page_event_2019 %}
 * [{{ page.title }}]({{site.baseurl }}{{ page.url }})
 {% endfor %}
 
-## Meeting le 10/10/2019
+## Partenaire
 
-Le [meeting du 10/10/2019](https://www.nuxeo.com/fr/events/owasp/) aura
-lieu chez
-[Nuxeo](https://www.nuxeo.com/fr/media-center/nouveaux-bureaux/) à 19h.
-N'oubliez pas votre pièce d'identité pour les raisons de sécurité. .
-Comme d'habitude le lien d'inscription se fait sur meetup :
-<https://www.meetup.com/owasp-france/events/265045137/>
+* [Forum de Cybersecurite France-Israel](https://clusif.fr/conferences/forum-de-cybersecurite-france-israel-usa-2019/)
+* GSDays
 
-## Meeting de la rentrée le 9/9/2019
-
-Prochain meeting le 9/9/2019 a 19h chez OCTO Technology Informations ici
-<https://www.meetup.com/fr-FR/owasp-france/events/263769738/>
-
-## Meeting le 27/06/2019
-
-Prochain meeting le 4 avril chez Theodo (48 Boulevard des Batignolles).
-Informations ici <http://meetu.ps/e/GQYLF/5HK3v/d>
-
-## Meeting le 22/05/2019
-
-Meeting le 22 Mai chez OCTO Technology. Informations ici
-<http://meetu.ps/e/GFGrj/5HK3v/d>
-
-## Meeting le 4/4/2019
-
-Prochain meeting le 4 avril chez OCTO Technology. Informations ici
-<https://www.meetup.com/fr-FR/owasp-france/events/259215813/>
-
-## Partenaire du Forum de Cybersecurite France-Israel 2019 :
-
-La Chambre de Commerce France-Israël et la Chambre de Commerce et
-d'Industrie de Paris Région Ile-de-France, avec le soutien de
-l’Ambassade d’Israël en France, du CESIN et du CLUSIF, organisent le
-13ème Forum de Cybersécurité France-Israël-USA, le mercredi 27 mars 2019
-au Palais Potocki, 27 avenue de Friedland à Paris, de 8h00 à 18h30.
-
-Inscription :
-<https://www.eventbrite.fr/e/billets-forum-de-cybersecurite-france-israel-2019-56974888425>
-
-Les solutions cyber de nouvelle génération les plus avancées y seront
-présentées.
-
-La journée débutera dès 08h00 par un networking breakfast en Salle des
-Cuivres avec, en parallèle, des rendez-vous d’affaires préprogrammés
-dans les alcôves du Palais Potocki et les premières présentations des
-sociétés israéliennes en Amphithéâtre du Conseil. A 10h00, suivra une
-conférence plénière en Salle des Lustres puis un VIP lunch en présence
-des sponsors et des speakers.
-
-Une nouvelle session de rendez-vous d'affaires se tiendra de 14h00 à
-18h30 avec une série non-stop d'ateliers de 20 minutes ouverts au public
-professionnel, pour prendre connaissance des solutions les plus
-innovantes.
-
-Le jour J, mercredi 27 mars 2019 nous recevons au Palais Potocki une
-sélection israélienne et US à couper le souffle.
-
-Parmi elles:
-
-1\) l’INCB du Bureau du Premier Ministre, homologue israélien de l’ANSSI
-;
-
-2\) Le centre de cybersécurité du Technion, institut polytechnique
-israélien,
-
-3\) Cybereason sponsor platinum et leader mondial de l’entreprise attack
-protection,
-
-4\) CyberArk sponsor platinum et leader international de la gestion des
-accès à privilèges,
-
-5\) Guardicore à l’avant-garde mondiale de la détection de failles à
-l’intérieur des data centers et du Cloud ,
-
-6\) la société US Recorded Future spécialiste mondial de l’analyse
-prédictive appliquée à la cybersécurité,
-
-7\) Morphisec concepteur de la solution disruptive moving target
-defense,
-
-8\) SecBi auteur d’une technologie d’investigation autonome pour la
-détection de menaces complexes et furtives,
-
-9\) Synopsys géant américain spécialisé dans la vérification de circuits
-intégrés et expert en cybersécurité du code avec ses labos israéliens,
-
-10\) Team8 spin off de la NSA israélienne (8200), think-tank, fonds
-d’investissement et accélérateur cyber leader en Israel,
-
-11\) Claroty à l’avant-garde mondiale de la sécurité des systèmes de
-contrôle industriels,
-
-12\) Hysolate concepteur d'une solution révolutionnaire d'air gap
-virtuel pour augmenter la sécurité des entreprises,
-
-13\) Illusive et sa solution anti APT et anti mouvements latéraux,
-
-14\) Reblaze qui sécurise tous les actifs web dans un Cloud Privé
-Virtuel,
-
-15\) Unbound Tech et sa solution disruptive de « « software defined
-cryptography » avec Goldman Sachs and City Banks à son capital,
-
-16\) CYE qui propose des solutions de cybersécurité innovantes et
-économiques combinant intelligence artificielle avancée et intelligence
-naturelle reposant sur l'une des plus vastes red team au monde.
-
-17\) Et enfin en exclusivité ZecOps, la dernière création de Zuk Avraham
-fondateur de Zimperium.
-
-Le Forum est une occasion unique de les rencontrer sur un même plateau,
-pour tous ceux qui n'ont pas eu l’opportunité d’effectuer le voyage au
-grand salon Cybertech en janvier dernier à Tel-Aviv.
-
-Le Forum de cybersécurité France-Israël permet chaque année d'anticiper,
-avec plusieurs mois d’avance, les tendances du marché international de
-la cybersécurité, comme le précise l’intitulé de cette 13ème édition qui
-se déroule entièrement en anglais : « Cyber security Revolution
-Convergence of AI (Artificial Intelligence), Big Data, Block Chain and
-Devops ».
-
-## Partenaire des GSDays 2019
 
 # 2018
 
-Presentation des nouveautés du OWASP Top10 2017 au Forum ADN Ouest le 27
-Septembre 2018
+Presentation des nouveautés du OWASP Top10 2017 au Forum ADN Ouest le 27 Septembre 2018
 
 ### [FORUM DE CYBERSECURITE France-Israël 2018](https://www.eventbrite.fr/e/billets-forum-de-cybersecurite-france-israel-2018-43316132719)
 
