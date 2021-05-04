@@ -5,6 +5,7 @@ title: OWASP France
 tags: home, france
 level: 0
 site_side: true
+meetup-group: owasp-france
 
 region: Europe
 ---
