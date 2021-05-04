@@ -18,7 +18,3 @@ Entreprises, Individuels, Monde Académique, Sponsors, Supports, tout le monde e
 N'hésitez pas à nous solliciter si vous souhaitez discuter d'un sujet particulier, ou si vous souhaitez effectuer une présentation lors d'un meeting du Chapitre France.
 
 Nous restons modestes dans notre approche, nous souhaitons que le Chapitre OWASP France devienne un de vos contacts de référence.
-
-**The French Chapter is also available on LinkedIn**: [**Join us**, it only takes a minute\!](http://www.linkedin.com/groupInvitation?gid=1638517)
-
-
