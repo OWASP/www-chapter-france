@@ -7,9 +7,7 @@ order: 2
 tags: france
 ---
 
-Les meetings ont lieu sur une base minimale trimestrielle et se déroulent généralement dans une salle mise à disposition par un sponsor 
-
-L'organisation et le détail des meetings sont communiqués via la [liste de diffusion](https://groups.google.com/a/owasp.org/forum/#!forum/france-chapter) et via le compte [twitter](https://twitter.com/OWASP_France) de la section. 
+Les meetings ont lieu sur une base minimale trimestrielle et se déroulent généralement dans une salle mise à disposition par un sponsor.
 
 # 2021
 
