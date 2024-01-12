@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP France
 tags: home, france
+country: France
 level: 0
 site_side: true
 meetup-group: owasp-france
