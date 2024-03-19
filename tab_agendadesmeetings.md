@@ -10,6 +10,14 @@ tags: france
 Les meetings ont lieu sur une base minimale trimestrielle et se déroulent généralement dans une salle mise à disposition par un sponsor.
 
 
+# 2024
+
+{% assign page_event_2024 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2024'" %}
+
+{% for page in page_event_2024 %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}
+
 # 2023
 
 {% assign page_event_2023 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'event/2023'" %}
