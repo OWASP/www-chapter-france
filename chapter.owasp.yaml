@@ -1,0 +1,29 @@
+community:
+  - name: chapter-france
+    platform: slack
+    url: https://owasp.slack.com/archives/C04U7KDRF
+leaders:
+  - name: Sebastien Gioria
+    email: sebastien.gioria@owasp.org
+    github: SPoint42
+  - name: Didier Bernaudeau
+    email: didier.bernaudeau@owasp.org
+  - name: Yvan Phelizot
+    email: yvan@owasp.org
+location:
+  country: France
+  country_code: FR
+  region: Europe
+  latitude: 46.603354
+  longitude: 1.8883335
+meetup_group: owasp-france
+name: OWASP France
+repositories:
+  - name: www-chapter-france
+    url: https://github.com/OWASP/www-chapter-france
+    description: OWASP Foundation Web Repository
+tags:
+  - home
+  - france
+  - custom-tag-1
+website: https://owasp.org/www-chapter-france
