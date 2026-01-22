@@ -6,6 +6,7 @@ tags: home, france
 country: France
 level: 0
 site_side: true
+country: France
 meetup-group: owasp-france
 
 region: Europe
